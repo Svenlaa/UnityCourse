@@ -46,9 +46,9 @@ sysinfo.txt
 *.app
 
 
-
-# JetBrains idea
-.idea/   
+# IDE Files
+.idea/
+.vs/
 
 # Crashlytics generated file
 crashlytics-build.properties
